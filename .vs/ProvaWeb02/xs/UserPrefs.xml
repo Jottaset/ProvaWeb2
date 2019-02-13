@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{28228CEA-4FAB-4D80-8D84-3BFFF72A3EB0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VIEW/Pages/FuncionarioCadastro.aspx">
+    <Files>
+      <File FileName="DAL/Persistence/FuncionarioDal.cs" Line="50" Column="89" />
+      <File FileName="VIEW/Pages/FuncionarioCadastro.aspx.cs" Line="24" Column="65" />
+      <File FileName="VIEW/Pages/FuncionarioCadastro.aspx" Line="28" Column="154" />
+      <File FileName="../../Projects/SoluctionClinica/View/Pages/EstadoCadastro.aspx.cs" Line="51" Column="6" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.VIEW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/aluno/Documents/ProvaWeb02/DAL/obj/Release/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/ProvaWeb02/DAL/obj/Release/DAL.csprojAssemblyReference.cache
+/Users/aluno/Documents/ProvaWeb02/DAL/bin/Release/DAL.dll.config
+/Users/aluno/Documents/ProvaWeb02/DAL/bin/Release/DAL.dll
+/Users/aluno/Documents/ProvaWeb02/DAL/bin/Release/BLL.dll
+/Users/aluno/Documents/ProvaWeb02/DAL/bin/Release/MySql.Data.dll
+/Users/aluno/Documents/ProvaWeb02/DAL/obj/Release/DAL.csproj.CopyComplete
+/Users/aluno/Documents/ProvaWeb02/DAL/obj/Release/DAL.dll

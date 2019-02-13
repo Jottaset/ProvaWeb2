@@ -1,0 +1,3 @@
+/Users/aluno/Documents/ProvaWeb02/BLL/bin/Release/BLL.dll
+/Users/aluno/Documents/ProvaWeb02/BLL/obj/Release/BLL.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/ProvaWeb02/BLL/obj/Release/BLL.dll

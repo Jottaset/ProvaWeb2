@@ -1,0 +1,9 @@
+/Users/aluno/Documents/ProvaWeb02/VIEW/obj/Release/VIEW.csprojAssemblyReference.cache
+/Users/aluno/Documents/ProvaWeb02/VIEW/obj/Release/VIEW.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/ProvaWeb02/VIEW/bin/VIEW.dll
+/Users/aluno/Documents/ProvaWeb02/VIEW/bin/BLL.dll
+/Users/aluno/Documents/ProvaWeb02/VIEW/bin/DAL.dll
+/Users/aluno/Documents/ProvaWeb02/VIEW/bin/MySql.Data.dll
+/Users/aluno/Documents/ProvaWeb02/VIEW/bin/DAL.dll.config
+/Users/aluno/Documents/ProvaWeb02/VIEW/obj/Release/VIEW.csproj.CopyComplete
+/Users/aluno/Documents/ProvaWeb02/VIEW/obj/Release/VIEW.dll
